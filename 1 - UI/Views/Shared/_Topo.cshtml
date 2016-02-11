@@ -1,0 +1,10 @@
+﻿
+<p>Todo do Meu site</p>
+
+
+@if (Session["usuarioLogadoID"] != null)
+{
+    <text>
+        <h3> Bem-Vindo @Session["usuarioLogadoNome"].ToString() </h3>
+    </text>
+}

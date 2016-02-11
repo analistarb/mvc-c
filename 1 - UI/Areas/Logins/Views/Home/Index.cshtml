@@ -1,0 +1,42 @@
+﻿@model Application.Dominio.Login
+
+@{
+    ViewBag.Title = "Login";
+}
+
+
+<h2>Login</h2>
+
+@using (Html.BeginForm()) {
+    @Html.AntiForgeryToken()
+    @Html.ValidationSummary(false)
+
+    <fieldset>
+        <legend>Login</legend>
+        <div class="editor-label">
+            @Html.LabelFor(model => model.nm_login)
+        </div>
+        <div class="editor-field">
+            @Html.TextBoxFor(model => model.nm_login, new { @Value = "teste_login" })
+            @Html.ValidationMessageFor(model => model.nm_login)
+        </div>
+      
+        <p>
+            <input type="submit" value="Entrar" />
+        </p>
+    </fieldset>
+}
+
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}
+      
+      
+@section seguranca{}      
+
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}

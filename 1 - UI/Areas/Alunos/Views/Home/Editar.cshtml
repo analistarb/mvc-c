@@ -1,0 +1,216 @@
+﻿@model Application.Dominio.Aluno
+
+@{
+    ViewBag.Title = "Editar";
+}
+
+<h2>Editar</h2>
+
+@using (Html.BeginForm()) {
+    @Html.AntiForgeryToken()
+    @Html.ValidationSummary(false)
+
+    <fieldset>
+        <legend>Aluno</legend>
+
+        @Html.HiddenFor(model => model.Id)
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.Nome)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.Nome)
+            @Html.ValidationMessageFor(model => model.Nome)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.Mae)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.Mae)
+            @Html.ValidationMessageFor(model => model.Mae)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.DataNascimento)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.DataNascimento)
+            @Html.ValidationMessageFor(model => model.DataNascimento)
+        </div>
+
+
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.nr_cpf)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.nr_cpf)
+            @Html.ValidationMessageFor(model => model.nr_cpf)
+        </div>
+
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.ci_Cadeirante)
+        </div>
+        <div class="editor-field">
+            @Html.CheckBoxFor(model => model.ci_Cadeirante)
+            @Html.ValidationMessageFor(model => model.ci_Cadeirante)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.ci_Fala)
+        </div>
+        <div class="editor-field">
+            @Html.CheckBoxFor(model => model.ci_Fala)
+            @Html.ValidationMessageFor(model => model.ci_Fala)
+        </div>
+   
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.p172)
+        </div>
+        <div class="editor-field">
+            @Html.RadioButtonFor(model => model.p172, "1" ) Sim
+            @Html.RadioButtonFor(model => model.p172, "2" ) Não
+            @Html.ValidationMessageFor(model => model.p172)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.p15)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.p15)
+            @Html.ValidationMessageFor(model => model.p15)
+        </div>
+
+
+
+
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.ci_raca)
+        </div>
+        <div class="editor-field">
+            @Html.DropDownListFor(model => model.ci_raca, new SelectList(ViewBag.raca, "ci_raca", "dc_raca"), "Selecione")
+            @Html.ValidationMessageFor(model => model.ci_raca)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.ci_sexo)
+        </div>
+        <div class="editor-field">
+            @Html.DropDownListFor(model => model.ci_sexo, new SelectList(
+                new List<Object>
+                {
+                    new {value = 0, text = ""},
+                    new {value = 1, text = "Masculino"},
+                    new {value = 2, text = "Feminino"}
+                },
+                "value",
+                "text",
+                0))
+            @Html.ValidationMessageFor(model => model.ci_sexo)
+        </div>
+
+
+
+
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.nr_idade)
+        </div>
+        <div class="editor-field">
+            @Html.TextBoxFor(model => model.nr_idade)
+            @Html.ValidationMessageFor(model => model.nr_idade)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.nm_email)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.nm_email)
+            @Html.ValidationMessageFor(model => model.nm_email)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.nr_dinheiro)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.nr_dinheiro)
+            @Html.ValidationMessageFor(model => model.nr_dinheiro)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.dc_obs)
+        </div>
+        <div class="editor-field">
+            @Html.TextAreaFor(model => model.dc_obs)
+            @Html.ValidationMessageFor(model => model.dc_obs)
+        </div>
+
+
+
+         <div class="editor-label">
+            @Html.LabelFor(model => model.nm_usuario)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.nm_usuario)
+            @Html.ValidationMessageFor(model => model.nm_usuario)
+        </div>
+        
+        <div class="editor-label">
+            @Html.LabelFor(model => model.nm_senha)
+        </div>
+        <div class="editor-field">
+            @Html.PasswordFor(model => model.nm_senha)
+            @Html.ValidationMessageFor(model => model.nm_senha)
+        </div>
+        
+        <div class="editor-label">
+            @Html.LabelFor(model => model.ConfirmarSenha)
+        </div>
+        <div class="editor-field">
+            @Html.PasswordFor(model => model.ConfirmarSenha)
+            @Html.ValidationMessageFor(model => model.ConfirmarSenha)
+        </div>
+
+
+
+
+
+        <p>
+            <input type="submit" value="Salvar" />
+        </p>
+    </fieldset>
+}
+
+<div>
+    @Html.ActionLink("Voltar", "Index")
+</div>
+
+
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+
+    <script type="text/javascript">
+        $(document).ready(function() {
+
+            $("#DataNascimento").mask("00/00/0000");
+            $("#nr_cpf").mask("000.000.000-00");
+            $("#nr_idade").mask("000", { reverse: true });
+            $("#nr_dinheiro").mask("000000000000000,00", { reverse: true });
+        });
+
+    </script>
+}
+
+
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+

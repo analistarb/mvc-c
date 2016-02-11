@@ -1,0 +1,30 @@
+C:\Users\Workstation\Desktop\ADO_Simples\04) CRUD POO + ASP.NET\Application\Application.Dominio\bin\Debug\Application.Dominio.dll
+C:\Users\Workstation\Desktop\ADO_Simples\04) CRUD POO + ASP.NET\Application\Application.Dominio\bin\Debug\Application.Dominio.pdb
+C:\Users\Workstation\Desktop\ADO_Simples\04) CRUD POO + ASP.NET\Application\Application.Dominio\obj\Debug\Application.Dominio.csprojResolveAssemblyReference.cache
+C:\Users\Workstation\Desktop\ADO_Simples\04) CRUD POO + ASP.NET\Application\Application.Dominio\obj\Debug\Application.Dominio.dll
+C:\Users\Workstation\Desktop\ADO_Simples\04) CRUD POO + ASP.NET\Application\Application.Dominio\obj\Debug\Application.Dominio.pdb
+C:\Users\Workstation\Desktop\Analisar\04) CRUD POO + ASP.NET\Application\Application.Dominio\bin\Debug\Application.Dominio.dll
+C:\Users\Workstation\Desktop\Analisar\04) CRUD POO + ASP.NET\Application\Application.Dominio\bin\Debug\Application.Dominio.pdb
+C:\Users\Workstation\Desktop\Analisar\04) CRUD POO + ASP.NET\Application\Application.Dominio\obj\Debug\Application.Dominio.csprojResolveAssemblyReference.cache
+C:\Users\Workstation\Desktop\Analisar\04) CRUD POO + ASP.NET\Application\Application.Dominio\obj\Debug\Application.Dominio.dll
+C:\Users\Workstation\Desktop\Analisar\04) CRUD POO + ASP.NET\Application\Application.Dominio\obj\Debug\Application.Dominio.pdb
+C:\Users\Workstation\Desktop\07) Fusao\Application\Application.Dominio\obj\Debug\Application.Dominio.csprojResolveAssemblyReference.cache
+C:\Users\Workstation\Desktop\07) Fusao\Application\Application.Dominio\obj\Debug\Application.Dominio.dll
+C:\Users\Workstation\Desktop\07) Fusao\Application\Application.Dominio\obj\Debug\Application.Dominio.pdb
+C:\Users\Workstation\Desktop\07) Fusao\Application\Application.Dominio\bin\Debug\Application.Dominio.dll
+C:\Users\Workstation\Desktop\07) Fusao\Application\Application.Dominio\bin\Debug\Application.Dominio.pdb
+C:\Users\Workstation\Desktop\Testando!!!\Application\Application.Dominio\bin\Debug\Application.Dominio.dll
+C:\Users\Workstation\Desktop\Testando!!!\Application\Application.Dominio\bin\Debug\Application.Dominio.pdb
+C:\Users\Workstation\Desktop\Testando!!!\Application\Application.Dominio\obj\Debug\Application.Dominio.csprojResolveAssemblyReference.cache
+C:\Users\Workstation\Desktop\Testando!!!\Application\Application.Dominio\obj\Debug\Application.Dominio.dll
+C:\Users\Workstation\Desktop\Testando!!!\Application\Application.Dominio\obj\Debug\Application.Dominio.pdb
+C:\Users\Workstation\Desktop\Testando!!! C#\Application\Application.Dominio\bin\Debug\Application.Dominio.dll
+C:\Users\Workstation\Desktop\Testando!!! C#\Application\Application.Dominio\bin\Debug\Application.Dominio.pdb
+C:\Users\Workstation\Desktop\Testando!!! C#\Application\Application.Dominio\obj\Debug\Application.Dominio.dll
+C:\Users\Workstation\Desktop\Testando!!! C#\Application\Application.Dominio\obj\Debug\Application.Dominio.pdb
+C:\Users\Workstation\Desktop\Testando!!! C#\Application\Application.Dominio\obj\Debug\Application.Dominio.csprojResolveAssemblyReference.cache
+C:\Users\Workstation\Desktop\C#\Application\Application.Dominio\bin\Debug\Application.Dominio.dll
+C:\Users\Workstation\Desktop\C#\Application\Application.Dominio\bin\Debug\Application.Dominio.pdb
+C:\Users\Workstation\Desktop\C#\Application\Application.Dominio\obj\Debug\Application.Dominio.csprojResolveAssemblyReference.cache
+C:\Users\Workstation\Desktop\C#\Application\Application.Dominio\obj\Debug\Application.Dominio.dll
+C:\Users\Workstation\Desktop\C#\Application\Application.Dominio\obj\Debug\Application.Dominio.pdb

@@ -1,0 +1,153 @@
+﻿@model Application.Dominio.Aluno
+
+@{
+    ViewBag.Title = "Excluir";
+}
+
+<h2>Excluir</h2>
+
+<h3>Deseja realmente excluir este registro?</h3>
+<fieldset>
+    <legend>Aluno</legend>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.Nome)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Nome)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.Mae)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Mae)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.DataNascimento)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.DataNascimento)
+    </div>
+
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.nr_cpf)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.nr_cpf)
+    </div>
+
+
+
+
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.ci_raca)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.dc_raca)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.ci_sexo)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.dc_sexo)
+    </div>
+
+
+
+
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.ci_Cadeirante)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.ci_Cadeirante)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.ci_Fala)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.ci_Fala)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.p172)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.dc_p172)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.p15)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.p15)
+    </div>
+
+    <div class="display-label">
+        @Html.DisplayNameFor(model => model.nr_idade)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.nr_idade)
+    </div>
+
+    
+
+    <div class="display-label">
+        @Html.DisplayNameFor(model => model.nm_email)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.nm_email)
+    </div>
+
+    <div class="display-label">
+        @Html.DisplayNameFor(model => model.nr_dinheiro)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.nr_dinheiro)
+    </div>
+
+    <div class="display-label">
+        @Html.DisplayNameFor(model => model.dc_obs)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.dc_obs)
+    </div>
+
+
+
+    <div class="display-label">
+        @Html.DisplayNameFor(model => model.nm_usuario)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.nm_usuario)
+    </div>
+        
+    <div class="display-label">
+        @Html.DisplayNameFor(model => model.nm_senha)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.nm_senha)
+    </div>
+  
+
+
+</fieldset>
+@using (Html.BeginForm()) {
+    @Html.AntiForgeryToken()
+    <p>
+        <input type="submit" value="Excluir" /> |
+        @Html.ActionLink("Cancelar", "Index")
+    </p>
+}
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+

@@ -1,0 +1,60 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+</head>
+<body>
+
+    @RenderPage("~/Views/Shared/_Topo.cshtml")
+    @Html.Partial("_Menu")
+
+
+    <hr/>
+    @RenderBody()
+    <hr/>
+
+
+
+    @if(IsSectionDefined("rodape"))
+    {
+        @RenderSection("rodape")
+
+    }
+    else
+    {
+        @Html.Partial("_Rodape")
+    }
+
+
+
+@Scripts.Render("~/bundles/jquery")
+    @RenderSection("scripts", required: false)
+</body>
+</html>
+
+
+
+
+@if (TempData["alert"] != null) { 
+    <script type="text/javascript">
+        alert("@Html.Encode(TempData["alert"])");
+    </script>
+}
+
+
+
+
+@if(IsSectionDefined("seguranca"))
+{
+    @RenderSection("seguranca")
+}
+else
+{
+    @Html.Partial("_seguranca")
+}
+
+

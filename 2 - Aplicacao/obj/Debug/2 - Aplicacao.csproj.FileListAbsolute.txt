@@ -1,0 +1,27 @@
+C:\Users\Workstation\Desktop\Nova pasta\01) (Areas + Bootstrap) (Entity Framework só Instalado)\01) (Areas + Bootstrap) (Entity Framework só Instalado)\01) C#\Application\2 - Aplicacao\bin\Debug\Application.Aplicacao.dll
+C:\Users\Workstation\Desktop\Nova pasta\01) (Areas + Bootstrap) (Entity Framework só Instalado)\01) (Areas + Bootstrap) (Entity Framework só Instalado)\01) C#\Application\2 - Aplicacao\bin\Debug\Application.Aplicacao.pdb
+C:\Users\Workstation\Desktop\Nova pasta\01) (Areas + Bootstrap) (Entity Framework só Instalado)\01) (Areas + Bootstrap) (Entity Framework só Instalado)\01) C#\Application\2 - Aplicacao\bin\Debug\Application.Dominio.dll
+C:\Users\Workstation\Desktop\Nova pasta\01) (Areas + Bootstrap) (Entity Framework só Instalado)\01) (Areas + Bootstrap) (Entity Framework só Instalado)\01) C#\Application\2 - Aplicacao\bin\Debug\Application.Repositorio.dll
+C:\Users\Workstation\Desktop\Nova pasta\01) (Areas + Bootstrap) (Entity Framework só Instalado)\01) (Areas + Bootstrap) (Entity Framework só Instalado)\01) C#\Application\2 - Aplicacao\bin\Debug\Application.Dominio.pdb
+C:\Users\Workstation\Desktop\Nova pasta\01) (Areas + Bootstrap) (Entity Framework só Instalado)\01) (Areas + Bootstrap) (Entity Framework só Instalado)\01) C#\Application\2 - Aplicacao\bin\Debug\Application.Repositorio.pdb
+C:\Users\Workstation\Desktop\Nova pasta\01) (Areas + Bootstrap) (Entity Framework só Instalado)\01) (Areas + Bootstrap) (Entity Framework só Instalado)\01) C#\Application\2 - Aplicacao\obj\Debug\2 - Aplicacao.csprojResolveAssemblyReference.cache
+C:\Users\Workstation\Desktop\Nova pasta\01) (Areas + Bootstrap) (Entity Framework só Instalado)\01) (Areas + Bootstrap) (Entity Framework só Instalado)\01) C#\Application\2 - Aplicacao\obj\Debug\Application.Aplicacao.dll
+C:\Users\Workstation\Desktop\Nova pasta\01) (Areas + Bootstrap) (Entity Framework só Instalado)\01) (Areas + Bootstrap) (Entity Framework só Instalado)\01) C#\Application\2 - Aplicacao\obj\Debug\Application.Aplicacao.pdb
+C:\Users\Workstation\Desktop\Nova pasta\01) C#\Application\2 - Aplicacao\bin\Debug\Application.Aplicacao.dll
+C:\Users\Workstation\Desktop\Nova pasta\01) C#\Application\2 - Aplicacao\bin\Debug\Application.Aplicacao.pdb
+C:\Users\Workstation\Desktop\Nova pasta\01) C#\Application\2 - Aplicacao\bin\Debug\Application.Dominio.dll
+C:\Users\Workstation\Desktop\Nova pasta\01) C#\Application\2 - Aplicacao\bin\Debug\Application.Repositorio.dll
+C:\Users\Workstation\Desktop\Nova pasta\01) C#\Application\2 - Aplicacao\bin\Debug\Application.Dominio.pdb
+C:\Users\Workstation\Desktop\Nova pasta\01) C#\Application\2 - Aplicacao\bin\Debug\Application.Repositorio.pdb
+C:\Users\Workstation\Desktop\Nova pasta\01) C#\Application\2 - Aplicacao\obj\Debug\2 - Aplicacao.csprojResolveAssemblyReference.cache
+C:\Users\Workstation\Desktop\Nova pasta\01) C#\Application\2 - Aplicacao\obj\Debug\Application.Aplicacao.dll
+C:\Users\Workstation\Desktop\Nova pasta\01) C#\Application\2 - Aplicacao\obj\Debug\Application.Aplicacao.pdb
+C:\Users\Workstation\Desktop\04) Seleção!\01) DotNet\04) MVC\01) C#\Application\2 - Aplicacao\bin\Debug\Application.Aplicacao.dll
+C:\Users\Workstation\Desktop\04) Seleção!\01) DotNet\04) MVC\01) C#\Application\2 - Aplicacao\bin\Debug\Application.Aplicacao.pdb
+C:\Users\Workstation\Desktop\04) Seleção!\01) DotNet\04) MVC\01) C#\Application\2 - Aplicacao\bin\Debug\Application.Dominio.dll
+C:\Users\Workstation\Desktop\04) Seleção!\01) DotNet\04) MVC\01) C#\Application\2 - Aplicacao\bin\Debug\Application.Repositorio.dll
+C:\Users\Workstation\Desktop\04) Seleção!\01) DotNet\04) MVC\01) C#\Application\2 - Aplicacao\bin\Debug\Application.Dominio.pdb
+C:\Users\Workstation\Desktop\04) Seleção!\01) DotNet\04) MVC\01) C#\Application\2 - Aplicacao\bin\Debug\Application.Repositorio.pdb
+C:\Users\Workstation\Desktop\04) Seleção!\01) DotNet\04) MVC\01) C#\Application\2 - Aplicacao\obj\Debug\2 - Aplicacao.csprojResolveAssemblyReference.cache
+C:\Users\Workstation\Desktop\04) Seleção!\01) DotNet\04) MVC\01) C#\Application\2 - Aplicacao\obj\Debug\Application.Aplicacao.dll
+C:\Users\Workstation\Desktop\04) Seleção!\01) DotNet\04) MVC\01) C#\Application\2 - Aplicacao\obj\Debug\Application.Aplicacao.pdb

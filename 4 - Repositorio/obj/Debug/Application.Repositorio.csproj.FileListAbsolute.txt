@@ -1,0 +1,25 @@
+C:\Users\Workstation\Desktop\ADO_Simples\04) CRUD POO + ASP.NET\Application\Application.Repositorio\bin\Debug\Application.Repositorio.dll
+C:\Users\Workstation\Desktop\ADO_Simples\04) CRUD POO + ASP.NET\Application\Application.Repositorio\bin\Debug\Application.Repositorio.pdb
+C:\Users\Workstation\Desktop\ADO_Simples\04) CRUD POO + ASP.NET\Application\Application.Repositorio\obj\Debug\Application.Repositorio.csprojResolveAssemblyReference.cache
+C:\Users\Workstation\Desktop\ADO_Simples\04) CRUD POO + ASP.NET\Application\Application.Repositorio\obj\Debug\Application.Repositorio.dll
+C:\Users\Workstation\Desktop\ADO_Simples\04) CRUD POO + ASP.NET\Application\Application.Repositorio\obj\Debug\Application.Repositorio.pdb
+C:\Users\Workstation\Desktop\Analisar\04) CRUD POO + ASP.NET\Application\Application.Repositorio\bin\Debug\Application.Repositorio.dll
+C:\Users\Workstation\Desktop\Analisar\04) CRUD POO + ASP.NET\Application\Application.Repositorio\bin\Debug\Application.Repositorio.pdb
+C:\Users\Workstation\Desktop\Analisar\04) CRUD POO + ASP.NET\Application\Application.Repositorio\obj\Debug\Application.Repositorio.csprojResolveAssemblyReference.cache
+C:\Users\Workstation\Desktop\Analisar\04) CRUD POO + ASP.NET\Application\Application.Repositorio\obj\Debug\Application.Repositorio.dll
+C:\Users\Workstation\Desktop\Analisar\04) CRUD POO + ASP.NET\Application\Application.Repositorio\obj\Debug\Application.Repositorio.pdb
+C:\Users\Workstation\Desktop\07) Fusao\Application\Application.Repositorio\bin\Debug\Application.Repositorio.dll
+C:\Users\Workstation\Desktop\07) Fusao\Application\Application.Repositorio\bin\Debug\Application.Repositorio.pdb
+C:\Users\Workstation\Desktop\07) Fusao\Application\Application.Repositorio\obj\Debug\Application.Repositorio.csprojResolveAssemblyReference.cache
+C:\Users\Workstation\Desktop\07) Fusao\Application\Application.Repositorio\obj\Debug\Application.Repositorio.dll
+C:\Users\Workstation\Desktop\07) Fusao\Application\Application.Repositorio\obj\Debug\Application.Repositorio.pdb
+C:\Users\Workstation\Desktop\Testando!!!\Application\Application.Repositorio\bin\Debug\Application.Repositorio.dll
+C:\Users\Workstation\Desktop\Testando!!!\Application\Application.Repositorio\bin\Debug\Application.Repositorio.pdb
+C:\Users\Workstation\Desktop\Testando!!!\Application\Application.Repositorio\obj\Debug\Application.Repositorio.csprojResolveAssemblyReference.cache
+C:\Users\Workstation\Desktop\Testando!!!\Application\Application.Repositorio\obj\Debug\Application.Repositorio.dll
+C:\Users\Workstation\Desktop\Testando!!!\Application\Application.Repositorio\obj\Debug\Application.Repositorio.pdb
+C:\Users\Workstation\Desktop\Testando!!! C#\Application\Application.Repositorio\bin\Debug\Application.Repositorio.dll
+C:\Users\Workstation\Desktop\Testando!!! C#\Application\Application.Repositorio\bin\Debug\Application.Repositorio.pdb
+C:\Users\Workstation\Desktop\Testando!!! C#\Application\Application.Repositorio\obj\Debug\Application.Repositorio.dll
+C:\Users\Workstation\Desktop\Testando!!! C#\Application\Application.Repositorio\obj\Debug\Application.Repositorio.pdb
+C:\Users\Workstation\Desktop\Testando!!! C#\Application\Application.Repositorio\obj\Debug\Application.Repositorio.csprojResolveAssemblyReference.cache
