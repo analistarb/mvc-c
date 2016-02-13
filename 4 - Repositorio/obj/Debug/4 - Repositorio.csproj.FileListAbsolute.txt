@@ -8,3 +8,8 @@ C:\Users\Workstation\Desktop\04) Seleção!\01) DotNet\04) MVC\01) C#\Applicatio
 C:\Users\Workstation\Desktop\04) Seleção!\01) DotNet\04) MVC\01) C#\Application\4 - Repositorio\obj\Debug\4 - Repositorio.csprojResolveAssemblyReference.cache
 C:\Users\Workstation\Desktop\04) Seleção!\01) DotNet\04) MVC\01) C#\Application\4 - Repositorio\obj\Debug\Application.Repositorio.dll
 C:\Users\Workstation\Desktop\04) Seleção!\01) DotNet\04) MVC\01) C#\Application\4 - Repositorio\obj\Debug\Application.Repositorio.pdb
+C:\Users\Workstation\Desktop\08) Seleção\01) DotNet\04) MVC\01) C#\Application\4 - Repositorio\bin\Debug\Application.Repositorio.dll
+C:\Users\Workstation\Desktop\08) Seleção\01) DotNet\04) MVC\01) C#\Application\4 - Repositorio\bin\Debug\Application.Repositorio.pdb
+C:\Users\Workstation\Desktop\08) Seleção\01) DotNet\04) MVC\01) C#\Application\4 - Repositorio\obj\Debug\4 - Repositorio.csprojResolveAssemblyReference.cache
+C:\Users\Workstation\Desktop\08) Seleção\01) DotNet\04) MVC\01) C#\Application\4 - Repositorio\obj\Debug\Application.Repositorio.dll
+C:\Users\Workstation\Desktop\08) Seleção\01) DotNet\04) MVC\01) C#\Application\4 - Repositorio\obj\Debug\Application.Repositorio.pdb
